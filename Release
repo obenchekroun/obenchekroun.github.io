@@ -1,0 +1,9 @@
+Origin: Manof's Repo
+Label: Manof's Repo
+Suite: stable
+Version: 1.0
+Codename: Manof
+Architectures: iphoneos-arm
+Components: main
+Description: Manof's Repo for testing purposes
+MD5Sum:
