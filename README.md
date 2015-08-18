@@ -1,7 +1,7 @@
 # obenchekroun.github.io
 Cydia Repository
 
-Thanks to Decimation @ Tyler Crawford for their guide on how to make a Github Cydia repo !
+Thanks to Decimation & Tyler Crawford for their guide on how to make a Github Cydia repo !
 
 Cydia repo address : http://obenchekroun.github.io
 
