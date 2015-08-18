@@ -1,0 +1,22 @@
+<package>
+	<id>com.bo.FBIcon</id>
+	<name>Full Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>blabla</package>
+	</dependencies>
+	<descriptionlist>
+		<description>A purple icon for Facebook app</description>
+		<description>Winterboard theme</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+	</links>
+</package>
