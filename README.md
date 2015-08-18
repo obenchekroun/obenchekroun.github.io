@@ -6,6 +6,17 @@ Thanks to Decimation @ Tyler Crawford for their guide on how to make a Github Cy
 Cydia repo address : http://obenchekroun.github.io
 
 Cloning :
+- via application :
+
+		Hit '+' then "Clone"
+
+- via website
+
+		Button "Clone to desktop"
+
+- via ssh :
+$ cd Desktop/
+$ git clone git@github.com:obenchekroun/obenchekroun.github.io.git
 
 
 How To update the repo :
