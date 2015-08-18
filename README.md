@@ -35,6 +35,9 @@ How To update the repo :
 		Maintainer: Manof
 		Author: Manof
 		Section: Themes (Springboard)
+		Depiction: http://obenchekroun.github.io/depictions/index.html?p=com.bo.FBIcon
+
+Note that depictions/ should be adapted accordingly with a depiction for the package 
 
 - Modify 'packages.sh', adding the command to create the deb
 		
