@@ -1,0 +1,30 @@
+<package>
+	<id>com.bo.SimpleMCChat</id>
+	<name>Full Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>blabla</package>
+	</dependencies>
+	<descriptionlist>
+		<description>A simple chatting app using Multipeer Connectivity Framework</description>
+		<description>Local Room chat (Wi-Fi & Bluetooth)</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Chat aspect</description>
+			<image>1.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Browsing Devices</description>
+			<image>2.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+</package>
