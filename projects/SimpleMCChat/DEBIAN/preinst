@@ -1,10 +1,9 @@
+#!/bin/bash
 declare -a cydia
 cydia=($CYDIA)
-
-if [[ $1 == install || $1 == upgrade ]]; then
-    if [[ ${CYDIA+@} ]]; then
-        eval "echo 'finish:restart' >&${cydia[0]}"
-    fi
+if [[ $1 == install || $1 == upgrade || $1 == reinstall ]]; then
+if [[ ${CYDIA+@} ]]; then
+eval "echo 'finish:restart' >&${cydia[0]}"
+fi	
 fi
-
-exit
+exit 0
