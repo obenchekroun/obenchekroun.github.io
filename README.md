@@ -15,8 +15,9 @@ Cloning :
 		Button "Clone to desktop"
 
 - via ssh :
-$ cd Desktop/
-$ git clone git@github.com:obenchekroun/obenchekroun.github.io.git
+
+		$ cd Desktop/
+		$ git clone git@github.com:obenchekroun/obenchekroun.github.io.git
 
 Start Playing !
 
@@ -25,26 +26,27 @@ How To update the repo :
 - Add DEBIAN/ and any structure of files to be installed
 - In DEBIAN, add a 'control' file with this structure :
 
-Package: com.bo.FBIcon
-Name: FBIcon
-Depends: winterboard
-Version: 1.0
-Architecture: iphoneos-arm
-Description: A simple purple icon for Facebook app 
-Maintainer: Manof
-Author: Manof
-Section: Themes (Springboard)
+		Package: com.bo.FBIcon
+		Name: FBIcon
+		Depends: winterboard
+		Version: 1.0
+		Architecture: iphoneos-arm
+		Description: A simple purple icon for Facebook app 
+		Maintainer: Manof
+		Author: Manof
+		Section: Themes (Springboard)
 		
 - Modify 'packages.sh', adding the command to create the deb
+		
 		# dpkg-deb -bZgzip projects/<packagename> debs
 
 - execute './update.sh'
 
 
 It will :
-	- remove the previous .deb
-	- create a new deb for all the folders in projects/
-	- dpkg-scanpackages in .deb et update 'Packages' :
+- remove the previous .deb
+- create a new deb for all the folders in projects/
+- dpkg-scanpackages in .deb et update 'Packages' :
 			  
 			  Package: com.bo.FBIcon
 			  Version: 1.0
@@ -61,16 +63,18 @@ It will :
 			  Author: Manof
 			  Name: FBIcon
 
-	- compress 'Packages' to 'Packages.bz2'
+- compress 'Packages' to 'Packages.bz2'
 
 Done!
 
 Now, you want to commit the changes on git-hub :
-$ cd obenchekroun.github.io
-$ git add --all
-$ git commit -m "<any suitable description of the changes>"
-$ git push
+
+	$ cd obenchekroun.github.io
+	$ git add --all
+	$ git commit -m "<any suitable description of the changes>"
+	$ git push
 
 NB : the commit can be done via Github app or by executing the script :
+
 	$ ./gpush <description of the commited changes>
 
