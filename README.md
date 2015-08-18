@@ -16,7 +16,7 @@ Cloning :
 
 - via ssh :
 
-		$ cd Desktop/
+		$ cd ~/Desktop/
 		$ git clone git@github.com:obenchekroun/obenchekroun.github.io.git
 
 Start Playing !
