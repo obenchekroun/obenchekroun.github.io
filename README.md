@@ -37,7 +37,7 @@ How To update the repo :
 - Modify 'packages.sh', adding the command to create the deb
 		# dpkg-deb -bZgzip projects/<packagename> debs
 
-- execute './update'
+- execute './update.sh'
 
 
 It will :

@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Manof
 Depends: winterboard
 Filename: ./debs//com.bo.fbicon_1.0_iphoneos-arm.deb
-Size: 28148
-MD5sum: 83037dc237d739cf80d4d4efbfe46647
-SHA1: 3198526dc99c04f2e3202337fc6334a58824e9b2
-SHA256: c7d3264a71121db5a08b60f1f5f2e7335e0662a6d112e4ff61daed247706efad
+Size: 27106
+MD5sum: a2f733aa1f9f7bc48fd29a27ed513ebd
+SHA1: a4d5c487cf5fc2341c5f4d5230afef520f01e7d5
+SHA256: bf3ee74823ba1006e9474d2870f1ca718e92cb68c7a2de74c6ff5e0cbd82f790
 Section: Themes (Springboard)
 Description: A simple purple icon for Facebook app
 Author: Manof
