@@ -38,13 +38,13 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		R0zrrpfaChjofpRamb8S7T8InYk=
+		+qUO9/jy2uS38wjYDjFIcYBqBe4=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c6W12S2cIkG3oAg8KF2NuVRuZE4=
+			sGEsFK2CxhfBM1fhw/VNDOcQ7ac=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -53,7 +53,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JvDE6IVRAjZXwPmweh80QoL7YEY=
+			tQy4WA+2aOnphMJBBfFmdiPj6IA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -62,7 +62,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mL4W/Wxzfni6239DU+RIjLrxA/s=
+			RWfu0TKxBwWEwzSA+rvAhb4s2uU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -80,7 +80,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+iufaVCNmijixInVTDgMtOM8FsQ=
+			mDfNitLEeUYIC8PoZ+T/u5sgqec=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -89,7 +89,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DlFhuaVY8fGbXlV41doYPzE8OHw=
+			nh/hdK5dhfIz9a7oS3wUxQknkZk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -100,11 +100,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		M/0+sokc5k2gt8gfLUUx6S+Ax/k=
+		Pz54Y3RgIzPHONkTdABVDoBeP0w=
 		</data>
 		<key>LaunchImage-700-568h@2x.png</key>
 		<data>
 		197MJoNgaR79LpWwUxxbFP5A1LE=
+		</data>
+		<key>LaunchImage-700-Portrait@2x~ipad.png</key>
+		<data>
+		L5THW1yN+GS6Z8sU/l4CFmQEVwg=
+		</data>
+		<key>LaunchImage-700-Portrait~ipad.png</key>
+		<data>
+		mEgWQjNI6NL46EnNlxkN3uP4kLA=
 		</data>
 		<key>LaunchImage-700@2x.png</key>
 		<data>
@@ -167,13 +175,13 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		R0zrrpfaChjofpRamb8S7T8InYk=
+		+qUO9/jy2uS38wjYDjFIcYBqBe4=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c6W12S2cIkG3oAg8KF2NuVRuZE4=
+			sGEsFK2CxhfBM1fhw/VNDOcQ7ac=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -182,7 +190,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JvDE6IVRAjZXwPmweh80QoL7YEY=
+			tQy4WA+2aOnphMJBBfFmdiPj6IA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -191,7 +199,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mL4W/Wxzfni6239DU+RIjLrxA/s=
+			RWfu0TKxBwWEwzSA+rvAhb4s2uU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -209,7 +217,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+iufaVCNmijixInVTDgMtOM8FsQ=
+			mDfNitLEeUYIC8PoZ+T/u5sgqec=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -218,7 +226,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DlFhuaVY8fGbXlV41doYPzE8OHw=
+			nh/hdK5dhfIz9a7oS3wUxQknkZk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -230,6 +238,14 @@
 		<key>LaunchImage-700-568h@2x.png</key>
 		<data>
 		197MJoNgaR79LpWwUxxbFP5A1LE=
+		</data>
+		<key>LaunchImage-700-Portrait@2x~ipad.png</key>
+		<data>
+		L5THW1yN+GS6Z8sU/l4CFmQEVwg=
+		</data>
+		<key>LaunchImage-700-Portrait~ipad.png</key>
+		<data>
+		mEgWQjNI6NL46EnNlxkN3uP4kLA=
 		</data>
 		<key>LaunchImage-700@2x.png</key>
 		<data>
