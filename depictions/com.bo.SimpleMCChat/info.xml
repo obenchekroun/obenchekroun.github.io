@@ -11,6 +11,16 @@
 		<description>A simple chatting app using Multipeer Connectivity Framework</description>
 		<description>Local Room chat (Wi-Fi and Bluetooth)</description>
 	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Chat interface</description>
+			<image>1.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Finding people</description>
+			<image>2.png</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Initial Release</change>
 	</changelog>
