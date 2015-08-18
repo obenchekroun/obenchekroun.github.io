@@ -70,4 +70,6 @@ $ git add --all
 $ git commit -m "<any suitable description of the changes>"
 $ git push
 
-NB : the commit can be done via Github app
+NB : the commit can be done via Github app or by executing the script :
+	$ ./gpush <description of the commited changes>
+
