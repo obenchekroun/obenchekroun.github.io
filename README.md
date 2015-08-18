@@ -18,6 +18,7 @@ Cloning :
 $ cd Desktop/
 $ git clone git@github.com:obenchekroun/obenchekroun.github.io.git
 
+Start Playing !
 
 How To update the repo :
 - Create a new project in projects/
