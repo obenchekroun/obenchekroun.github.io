@@ -35,7 +35,7 @@ How To update the repo :
 		Maintainer: Manof
 		Author: Manof
 		Section: Themes (Springboard)
-		
+
 - Modify 'packages.sh', adding the command to create the deb
 		
 		# dpkg-deb -bZgzip projects/<packagename> debs
