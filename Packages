@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Manof
 Depends: winterboard
 Filename: ./debs//com.bo.fbicon_1.0_iphoneos-arm.deb
-Size: 27146
-MD5sum: 900c4f8695bde9c9c87e5946bb9683be
-SHA1: a82dbaa5de82ee186fa8ffb19dfef80433c5d2e1
-SHA256: 62c36d4ce28e1405080b6291dce048210c16ef209595d44640c2c0df18fb4d6c
+Size: 27140
+MD5sum: a2da0fa8de67aae6f1e8a6fe7839a2b0
+SHA1: d53264134785933d507c83a14683bf31accfedc7
+SHA256: a20319f99002bdb4527da059d36fcc95e1846f59e9cdd5c532d142de10224a49
 Section: Themes (Springboard)
 Description: A simple purple icon for Facebook app
 Author: Manof
@@ -20,10 +20,10 @@ Architecture: iphoneos-arm
 Maintainer: Manof
 Depends: firmware(>= 7.0)
 Filename: ./debs//com.bo.simplemcchat_1.0_iphoneos-arm.deb
-Size: 379180
-MD5sum: 03184d0603d8534d292e33b61ee5a144
-SHA1: e20761cb28b657eda5fe3079d319a5edc83352d5
-SHA256: fa1e6d7669522d3b5a6467ceb94925da6d3fbc1db0973bdb4804dc4c5f298355
+Size: 379162
+MD5sum: 6b5a38fb964c22794dcb36278df285b4
+SHA1: 860efff6ccb0b3d4ea0ce56cf7d656a503627a0d
+SHA256: 43422330fee19a40fe4951b05c2394cbef4b0ba758d480e6a7cdfd93d763ca39
 Section: Applications
 Description: A simple chatting app using Multipeer Connectivity Framework
 Author: Manof
