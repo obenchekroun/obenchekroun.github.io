@@ -24,15 +24,16 @@ How To update the repo :
 - Create a new project in projects/
 - Add DEBIAN/ and any structure of files to be installed
 - In DEBIAN, add a 'control' file with this structure :
-		Package: com.bo.FBIcon
-		Name: FBIcon
-		Depends: winterboard
-		Version: 1.0
-		Architecture: iphoneos-arm
-		Description: A simple purple icon for Facebook app 
-		Maintainer: Manof
-		Author: Manof
-		Section: Themes (Springboard)
+
+Package: com.bo.FBIcon
+Name: FBIcon
+Depends: winterboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A simple purple icon for Facebook app 
+Maintainer: Manof
+Author: Manof
+Section: Themes (Springboard)
 		
 - Modify 'packages.sh', adding the command to create the deb
 		# dpkg-deb -bZgzip projects/<packagename> debs
