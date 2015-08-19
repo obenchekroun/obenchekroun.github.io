@@ -1,11 +1,11 @@
 # obenchekroun.github.io
-Cydia Repository
+####Cydia Repository
 
 Thanks to Decimation & Tyler Crawford for their guide on how to make a Github Cydia repo !
 
-Cydia repo address : http://obenchekroun.github.io
+####Cydia repo address : http://obenchekroun.github.io
 
-Cloning :
+##Cloning :
 - via application :
 
 		Hit '+' then "Clone"
@@ -21,7 +21,7 @@ Cloning :
 
 Start Playing !
 
-How To update the repo :
+##How To update the repo :
 - Create a new project in projects/
 - Add DEBIAN/ and any structure of files to be installed
 - In DEBIAN, add a 'control' file with this structure :
@@ -70,7 +70,7 @@ It will :
 
 Done!
 
-Now, you want to commit the changes on git-hub :
+##Now, you want to commit the changes on git-hub :
 
 	$ cd obenchekroun.github.io
 	$ git add --all
@@ -80,4 +80,10 @@ Now, you want to commit the changes on git-hub :
 NB : the commit can be done via Github app or by executing the script :
 
 	$ ./gpush <description of the commited changes>
+
+*NB : scripts are using terminal-notifier to notify the completion of pushing.
+See https://github.com/julienXX/terminal-notifier and install by using :
+
+	$ brew install terminal-notifier
+
 
