@@ -1,6 +1,11 @@
 #!/bin/bash
+
+function notifyDone () { command="$@"; terminal-notifier -title "Git update" -message "Done with '$command'!" -activate com.googlecode.iterm2; }
+function notifyError () { command="$@"; terminal-notifier -title "Git update ERROR!" -message "'$command' exited with error!" -activate com.googlecode.iterm2; }
+function wn () { ($@ && notifyDone $@) || notifyError $@; }
+function n () { $@; notifyDone $@;}
+
 git add --all
 git commit -m "$*"
-git push
-terminal-notifier -title "Github repo update done !" -message "See terminal for potential error"
+wn git push
 
