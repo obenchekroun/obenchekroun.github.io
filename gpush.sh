@@ -2,5 +2,5 @@
 git add --all
 git commit -m "$*"
 git push
-terminal-notifier -title "Github repo updated !" -subtitle "Repo ready to use !" -message "Changes committed and pushed online"
+terminal-notifier -title "Github repo update done !" -message "See terminal for potential error"
 
