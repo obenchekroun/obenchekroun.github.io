@@ -82,7 +82,7 @@ NB : the commit can be done via Github app or by executing the script :
 	$ ./gpush <description of the commited changes>
 
 *NB : scripts are using terminal-notifier to notify the completion of pushing.
-See https://github.com/julienXX/terminal-notifier and install by using :
+See https://github.com/julienXX/terminal-notifier and install by using :*
 
 	$ brew install terminal-notifier
 
