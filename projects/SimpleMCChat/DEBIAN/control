@@ -8,5 +8,5 @@ Author: Manof
 Section: Applications
 Depends: firmware(>= 7.0)
 Depiction: http://obenchekroun.github.io/depictions/index.html?p=com.bo.SimpleMCChat
-Icon: file:///var/mobile/Documents/com.bo.SimpleMCChat.png
+Icon: http://obenchekroun.github.io/depictions/icons/com.bo.SimpleMCChat.png
 
