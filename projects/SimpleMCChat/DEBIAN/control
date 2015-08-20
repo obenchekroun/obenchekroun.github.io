@@ -5,8 +5,7 @@ Architecture: iphoneos-arm
 Description: A simple chatting app using Multipeer Connectivity Framework
 Maintainer: Manof
 Author: Manof
-Section: Applications
+Section: Tweaks
 Depends: firmware(>= 7.0)
 Depiction: http://obenchekroun.github.io/depictions/index.html?p=com.bo.SimpleMCChat
-Icon: http://obenchekroun.github.io/depictions/icons/com.bo.SimpleMCChat.png
 
