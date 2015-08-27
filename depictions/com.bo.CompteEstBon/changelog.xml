@@ -1,4 +1,9 @@
 <changelog>
+    <changes>
+    <version>2.1</version>
+	<change>Fix for full results display</change>
+  </changes>
+   <changes>
   <changes>
     <version>2.0</version>
 	<change>Better algorithm</change>
