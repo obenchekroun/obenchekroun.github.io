@@ -15,10 +15,10 @@ Thanks to Decimation & Tyler Crawford for their guide on how to make a Github Cy
 		Button "Clone to desktop"
 
 - via ssh :
-
+```bash
 		$ cd ~/Desktop/
 		$ git clone git@github.com:obenchekroun/obenchekroun.github.io.git
-
+```
 Start Playing !
 
 ##How To update the repo :
@@ -40,9 +40,9 @@ Start Playing !
 Note that depictions/ should be adapted accordingly with a depiction for the package 
 
 - Modify 'packages.sh', adding the command to create the deb
-		
-		# dpkg-deb -bZgzip projects/<packagename> debs
-
+```bash
+		dpkg-deb -bZgzip projects/<packagename> debs
+```
 - execute './update.sh'
 
 
@@ -70,20 +70,38 @@ It will :
 
 Done!
 
-##Now, you want to commit the changes on git-hub :
+## You might want to regenerate the README.md in pdf if modified
 
+```bash
+	$ pandoc README.md -o README.pdf
+```
+
+or to convert all markdown files :
+
+```bash
+	$ ./md2pdf.sh
+```
+##Now, you want to commit the changes on git-hub :
+```bash
 	$ cd obenchekroun.github.io
 	$ git add --all
 	$ git commit -m "<any suitable description of the changes>"
 	$ git push
-
+```
 NB : the commit can be done via Github app or by executing the script :
-
+```bash
 	$ ./gpush <description of the commited changes>
+```
+
+#### The scripts used are using the following tools. Make sure to install them beforehand
 
 *NB : scripts are using terminal-notifier to notify the completion of pushing.
 See https://github.com/julienXX/terminal-notifier and install by using :*
-
+```bash
 	$ brew install terminal-notifier
+```
 
-
+*NB : The conversion from .md to .pdf needs pandoc, which depends on a Latex distribution. To install pandoc :*
+```bash
+	$ brew install pandoc
+```

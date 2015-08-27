@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Manof
 Depends: firmware(>= 7.0)
 Filename: ./debs//com.bo.compteestbon_2.0_iphoneos-arm.deb
-Size: 279414
-MD5sum: dd4fdbd35152f51af2b4745d7b43c14a
-SHA1: d2cb129ab2922159b68d44ab1c1629047e284a9a
-SHA256: cd8ce4fc09ad5287c34f16b0ac378ebe278c4cd3a80eec2fb662fafc64348421
+Size: 279368
+MD5sum: 74ec335ac7471b13985df41df7f3a4ec
+SHA1: 5fd23c3ba733e21f433dabf90317bf422d474a8e
+SHA256: fc0932b79eeb5c6f07d69c7cd021e1f9258928df5541c526749dc892009c245c
 Section: Tweaks
 Description: A simple app to resolve The Total is Right
 Author: Manof
@@ -20,10 +20,10 @@ Architecture: iphoneos-arm
 Maintainer: Manof
 Depends: winterboard
 Filename: ./debs//com.bo.fbicon_1.0_iphoneos-arm.deb
-Size: 27142
-MD5sum: 0dd3775efab41eef965afe1a0dbf7838
-SHA1: 5f081dc71899dca920db2bf1464b83ed94da0244
-SHA256: bc7215d63f3ef95df0efd2f3401aa35615a93c2f34b71cd04446bd120d31b2e6
+Size: 27138
+MD5sum: 272ee462c3ce1b602fcd3e2292c75d1d
+SHA1: 2bb6f365411f1b975a5e6da33846601dbb9d091a
+SHA256: a3a5e837be971711621c5d94556783bf07f7b2f5f1690a990b68ec38a2e0a021
 Section: Themes (Springboard)
 Description: A simple purple icon for Facebook app
 Author: Manof
@@ -36,10 +36,10 @@ Architecture: iphoneos-arm
 Maintainer: Manof
 Depends: firmware(>= 7.0)
 Filename: ./debs//com.bo.simplemcchat_1.0_iphoneos-arm.deb
-Size: 523908
-MD5sum: b9c71ecc18f8daaac43f0c7d5d7a94e0
-SHA1: 22fef30477d72952142b592f6ac819d0aae994cc
-SHA256: 27546257621e830ca91aed8a8013ca799d34f677746e7683309766a687640ace
+Size: 523900
+MD5sum: a9899df437f952f103c59859835dca45
+SHA1: 37376b0f892255050c91820986b3e173e6e89682
+SHA256: 48f5e22578d2275b366b1bbae48b9992bccd14287262eaf545232f0634db8427
 Section: Tweaks
 Description: A simple chatting app using Multipeer Connectivity Framework
 Author: Manof

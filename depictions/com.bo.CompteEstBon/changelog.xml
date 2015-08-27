@@ -2,7 +2,9 @@
   <changes>
     <version>2.0</version>
 	<change>Better algorithm</change>
-		<version>1.0</version>
-		<change>Initial Release</change>
+  </changes>
+   <changes>
+    <version>1.0</version>
+	<change>Initial Release</change>
 	</changes>
 </changelog>
